@@ -10,11 +10,24 @@ ardnicoの職務経歴、スキルシートです。
 |Qiita|[URL](https://qiita.com/nico4316)|
 |Twitter|[@nicodistillery](https://twitter.com/nicodistillery)|
 
-## 強み
+## 得意なこと
+- いいと感じたらすぐに行動に移すこと
+
+
+
+## マイブーム
+
+- React等のフレームワーク
+- Linuc
+
+
+## 関心のあるもの
+- React
 
 
 
 ## やったことはないが興味があるもの
+-kubernetes
 
 
 ## スキル
@@ -22,6 +35,7 @@ ardnicoの職務経歴、スキルシートです。
 |lang|class|details|
 |-----|-----|-----|
 |Python|B|サーバ保守運用で自動化ツールの作成経験あり|
+|Html|C|小学生の頃から触れてます HTML5/CSS3は独学で自習中|
 |VBA|C|既存の自社ツールのコードから仕様書の書下ろし経験あり|
 |Go|-|独学でアプリ開発に挑戦中|
 |C#|-|独学で自習中|
@@ -30,7 +44,7 @@ ardnicoの職務経歴、スキルシートです。
 
 ### 運用経験
 |Target|details|
-|-----|-----|-----|
+|-----|-----|
 |Endpoint対策製品|クライアントPCの管理～検知対応まで経験あり|
 |EDRソフト|検知対応、ログ調査経験あり|
 |MDM|クライアント端末管理、データ抽出経験あり|
@@ -73,3 +87,9 @@ ardnicoの職務経歴、スキルシートです。
 #### 研修(2018/04-06)
 
 - Java,CentOSを題材にアプリ開発・サーバ構築に関する研修
+
+
+
+## 参考
+[職務経歴書をGitHubで管理しよう](https://qiita.com/okohs/items/abcad0b4aefa585bc50b)
+[keitaknさんのCV](https://github.com/keitakn/cv)
