@@ -67,17 +67,20 @@ ardnicoの職務経歴、スキルシートです。
 ※対象は約50万台以上
 - MDMソフト運用
 
+◆環境・規模
+　WindowsServer2012/Windows端末(30万台以上)/iPhone・iPad(6000台)
+　Sophos/VirusBuster/FireEye/CeowdStrikeFalcon
+  Python/UI Path
+
 #### サーバ構築(2018/08-2019/01)
 - UNIX系サーバの構築業務
 
-#### 自社待機(2018/07)
+　◆環境・規模
+ Soraris/RHEL
 
-自社待機中、サーバ構築の学習のためCentOS上に以下の
-フレームワークやソフトウェアの構築を学習
-- Apache
-- Struts2
-- Glassfish
-- Zabbix
+#### Linux環境構築(2018/07)
+- 環境構築の学習
+ Apache/Struts2/Glassfish/Zabbix
 
 #### 研修(2018/04-06)
 
