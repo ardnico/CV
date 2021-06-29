@@ -75,7 +75,3 @@
 - ノーコード・ローコード
   Airtable・Zapier等
 
-
-
-  # memo
-  GIGAZINEさんへ記事見ました
